@@ -1,5 +1,5 @@
 {
-    "name": "fft/mvc",
+    "name": "phpmt/mvc",
     "required": {
       "php": ">=5.6"
     },
@@ -9,7 +9,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "FFT\\" : "vendor/FFT/",
+            "PHPMT\\" : "vendor/PHPMT/",
             "App\\": "App/"
         }
     }

@@ -2,8 +2,8 @@
 
 namespace App\Controllers;
 
-use FFT\Controller\Action;
-use FFT\DI\Container;
+use PHPMT\Controller\Action;
+use PHPMT\DI\Container;
 
 class IndexController extends Action
 {

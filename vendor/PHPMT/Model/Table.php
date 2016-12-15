@@ -1,6 +1,6 @@
 <?php
 
-namespace FFT\Model;
+namespace PHPMT\Model;
 
 
 abstract class Table

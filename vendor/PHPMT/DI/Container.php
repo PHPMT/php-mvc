@@ -1,6 +1,6 @@
 <?php
 
-namespace FFT\DI;
+namespace PHPMT\DI;
 
 use App\Conn;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace FFT\Controller;
+namespace PHPMT\Controller;
 
 
 abstract class Action

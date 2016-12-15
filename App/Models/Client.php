@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use FFT\Model\Table;
+use PHPMT\Model\Table;
 
 class Client extends Table
 {

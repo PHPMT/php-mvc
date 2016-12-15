@@ -1,6 +1,6 @@
 <?php
 
-namespace FFT\Init;
+namespace PHPMT\Init;
 
 
 abstract class Bootstrap

@@ -2,7 +2,7 @@
 
 namespace App;
 
-use FFT\Init\Bootstrap;
+use PHPMT\Init\Bootstrap;
 
 class Route extends Bootstrap
 {
