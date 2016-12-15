@@ -1,0 +1,16 @@
+{
+    "name": "fft/mvc",
+    "required": {
+      "php": ">=5.6"
+    },
+    "authors": [{
+        "name": "Felipe Fontana",
+        "email": "felipefontanaf@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "FFT\\" : "vendor/FFT/",
+            "App\\": "App/"
+        }
+    }
+}
